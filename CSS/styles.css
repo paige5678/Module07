@@ -124,7 +124,6 @@ h1 {
 
 .column {
   flex: 33.33%;
-  height: 640px;
   padding: 10px;
 }
 
@@ -140,7 +139,7 @@ h1 {
 }
 
 .food {
-  background-image: url("Images/dagny-reese-tTM1K94ZzhE-unsplash.jpg");
+  background-image: url("../Images/dagny-reese-tTM1K94ZzhE-unsplash.jpg");
   background-size: cover;
 }
 
